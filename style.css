@@ -1,0 +1,44 @@
+table,tr,td{
+background-color: green ;
+font-family: century gothic;
+color: green;
+border: 1px solid aqua;
+padding: 5px;
+border-collapse: collapse;
+}
+.h{
+border: 8px groove yellow;
+padding: 20px;
+}
+.posisi{
+position: absolute;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: auto;
+margin-top: auto;
+left: 0;
+right: 0;
+top: 100px;
+bottom: 0;
+}
+body{
+background-image: url('Bima.jpeg');
+background-repeat: no-repeat;
+background-size: 1400px auto;
+}
+
+#socialiconsbox {
+margin: 10px 0;
+}
+.socialicons {
+color: #FFF;
+font-size: 3.5em;
+margin-right: 6px;
+font-family: georgia, serif;
+letter-spacing: 7px;
+border-radius: 6px;
+-webkit-border-radius: 6px;
+-moz-border-radius: 6px;
+}
+.facebook { background-image: facebook.jpeg padding:2px 10px; }
+.instagram { background:#4A9CC9; padding: 2px 10px; }
